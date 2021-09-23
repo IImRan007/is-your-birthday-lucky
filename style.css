@@ -52,4 +52,11 @@ input {
   color: black;
   cursor: pointer;
   font-family: "Gemunu Libre", sans-serif;
+  font-size: 1rem;
+}
+
+.output {
+  text-align: center;
+  color: black;
+  font-size: 2rem;
 }
