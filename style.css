@@ -96,7 +96,7 @@ footer .icon .icon-style:hover {
   cursor: pointer;
 }
 
-@media screen and (min-width: 420px) {
+@media screen and (max-width: 420px) {
   input {
     width: 70%;
     height: 7vh;
