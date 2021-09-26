@@ -97,6 +97,9 @@ footer .icon .icon-style:hover {
 }
 
 @media screen and (max-width: 420px) {
+  .heading {
+    margin-top: 1rem;
+  }
   input {
     width: 70%;
     height: 7vh;
